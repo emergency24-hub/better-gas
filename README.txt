@@ -1,9 +1,7 @@
 BETTER GAS LTD WEBSITE
 
-Open index.html in any modern browser.
+Open index.html in any modern browser. Service cards open service.html with the selected service.
 
-To edit company details, open script.js and change the values in the "company" block at the top. Phone numbers, links, email, domain, registered office and company number update automatically.
+Edit company details and service descriptions in the company and services blocks at the top of script.js. The visible contact information and map link update automatically.
 
-To change services or their short descriptions, edit the "services" list in script.js. Photos and the supplied logo live in the assets folder.
-
-The site uses plain HTML, CSS and JavaScript. No build step is needed. Fonts use Google Fonts when online and fall back to system fonts offline.
+Photos and the supplied logo live in assets/. No build step is needed. Fonts use Google Fonts online and fall back to system fonts offline.
